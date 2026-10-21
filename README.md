@@ -105,7 +105,7 @@ I work across **mathematical modeling, statistical inference, computational vali
   *Disentangling Mobility-Driven and Intrinsic Transmission in Regional Influenza Dynamics*  
   Jaewan Shin, Eunhwa Jeong, Seojin Jo, Minsoo Kim
 
-- **Mathematical Pharmacology Symposium 2026** (July 31–August 1, 2026) — Poster presentation (P-10)  
+- **Mathematical Pharmacology Symposium 2026** (July 31–August 1, 2026) — Poster presentation
   *Quantitative Modeling Reveals Reaction-Driven Propagation of IP3-Mediated Calcium Waves*  
   Jaewan Shin, Sung-Chul Hong, Minsoo Kim
 
