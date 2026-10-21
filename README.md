@@ -99,6 +99,18 @@ I work across **mathematical modeling, statistical inference, computational vali
 
 `GARCH` `Regime-dependent volatility` `Monte Carlo` `Forecast evaluation`
 
+## Conference Presentations
+
+- **2026 Annual Meeting of the Korean Society for Mathematical Biology** (June 25–28, 2026) — Poster presentation  
+  *Disentangling Mobility-Driven and Intrinsic Transmission in Regional Influenza Dynamics*  
+  Jaewan Shin, Eunhwa Jeong, Seojin Jo, Minsoo Kim
+
+- **Mathematical Pharmacology Symposium 2026** (July 31–August 1, 2026) — Poster presentation (P-10)  
+  *Quantitative Modeling Reveals Reaction-Driven Propagation of IP3-Mediated Calcium Waves*  
+  Jaewan Shin, Sung-Chul Hong, Minsoo Kim
+
+---
+
 ## Software Project
 
 ### 🌊 PADO CALL — Multilingual Tourism Mobility Platform
