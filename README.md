@@ -15,7 +15,7 @@
 
 복잡한 현실 문제를 **수리모형·확률과정·통계적 추론**으로 분석하고, 가설을 **수치실험·검증·소프트웨어**로 연결하는 연구에 참여하고 있습니다. 반도체 공정, 교통 시스템, 감염병 확산 및 금융 변동성 등 서로 다른 응용 영역에서 모델의 가정과 한계를 명시하고 데이터로 평가하는 작업에 관심이 있습니다.
 
-I work across **mathematical modeling, statistical inference, computational validation, and software implementation**, with research experience spanning manufacturing processes, transportation, infectious-disease dynamics, and financial volatility.
+I study across **mathematical modeling, statistical inference, computational validation, and software implementation**, with research experience spanning manufacturing processes, transportation, infectious-disease dynamics, and financial volatility.
 
 ## Research Focus
 
