@@ -44,7 +44,7 @@ I study across **mathematical modeling, statistical inference, computational val
 
 ### 02 · Mobility-Informed Regional Influenza Transmission
 
-**Status:** Forthcoming / scheduled for publication (게재 예정) — *Journal of the Korean Data Analysis Society* (한국자료분석학회). Bibliographic details pending.
+**Status:** Published (게재 완료) — *Journal of the Korean Data Analysis Society* (한국자료분석학회), 28(5), 1811-1832 (October 2026).
 
 **A mobility-informed SIR model for regional transmission dynamics: Evidence from subway mobility data in Korea, 2016–2023**  
 *Jaewan Shin, Eunhwa Jeong, Seojin Jo, Minsoo Kim, Seungbae Ahn, Chankeun Park*
@@ -99,6 +99,18 @@ I study across **mathematical modeling, statistical inference, computational val
 
 `GARCH` `Regime-dependent volatility` `Monte Carlo` `Forecast evaluation`
 
+### 06 · Calibration and Identifiability of a Stochastic NF-κB Model
+
+**Status:** Under peer review (심사 중)
+
+**Calibrating a bounded stochastic Boolean NF-κB model to paired Western-blot dose–response data: bootstrap-calibrated identifiability and an observation-scale ambiguity**  
+*Chi Rac Hong, Jaewan Shin, Mi Seul Kim, Sung-Chul Hong, Minsoo Kim*
+
+- Examines calibration of a **bounded stochastic Boolean NF-κB model** to paired Western-blot dose–response data.
+- Focuses on **bootstrap-calibrated identifiability** and **observation-scale ambiguity**.
+
+`Cell signaling` `Stochastic Boolean models` `Dose–response calibration` `Identifiability`
+
 ## Conference Presentations
 
 - **2026 Annual Meeting of the Korean Society for Mathematical Biology** (June 25–28, 2026) — Poster presentation  
@@ -108,6 +120,10 @@ I study across **mathematical modeling, statistical inference, computational val
 - **Mathematical Pharmacology Symposium 2026** (July 31–August 1, 2026) — Poster presentation  
   *Quantitative Modeling Reveals Reaction-Driven Propagation of IP3-Mediated Calcium Waves*  
   Jaewan Shin, Sung-Chul Hong, Minsoo Kim
+
+- **2026 Annual Meeting of the Korean Society for Industrial and Applied Mathematics (KSIAM)** (November 5–8, 2026) — Poster presentation  
+  *A Mathematical Framework for Bounded Stochastic Dynamics in Cell Signaling Networks*  
+  Jaewan Shin, Junhyok Yun, Minsoo Kim
 
 ---
 
