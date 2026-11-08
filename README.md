@@ -26,7 +26,7 @@ I study across **mathematical modeling, statistical inference, computational val
 
 ## Research Papers & Manuscripts
 
-> **Publication status (as provided by the author):** 1 forthcoming in the *Journal of the Korean Data Analysis Society* (한국자료분석학회), and 4 under peer review. The forthcoming paper does not yet have confirmed volume, pages, DOI, or publication date. Status is based on the author’s update, not independent journal verification. Individual contribution statements are included only where explicitly reported in the manuscripts.
+> **Publication status (as provided by the author):** 1 published in the *Journal of the Korean Data Analysis Society* (한국자료분석학회), and 5 under peer review. The forthcoming paper does not yet have confirmed volume, pages, DOI, or publication date. Status is based on the author’s update, not independent journal verification. Individual contribution statements are included only where explicitly reported in the manuscripts.
 
 ### 01 · Vacuum–Repressurization Void Removal in Flip-Chip Underfill
 
