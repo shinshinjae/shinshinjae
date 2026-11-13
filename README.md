@@ -25,7 +25,7 @@ I study across **mathematical modeling, statistical inference, computational val
 - **Scientific software:** reproducible computational analysis, cross-checking mathematical models against numerical implementations.
 
 
-## 🏆 Awards & Honors
+## 🏆 Awards
 
 | Date | Award | Result |
 |:---:|---|---|
