@@ -29,7 +29,7 @@ I study across **mathematical modeling, statistical inference, computational val
 
 | Date | Award | Result |
 |:---:|---|---|
-| 2026.11 | 2026 동남권 멀티도메인 모빌리티 비즈니스 해커톤 | **특별상 · 울산광역시장상(최우수상)** |
+| 2026.11 | 2026 동남권 멀티도메인 모빌리티 비즈니스 해커톤 | **최우수상 · 울산광역시장상, 특별상 · 베스트 레벨업상** |
 
 
 ## Research Papers & Manuscripts
