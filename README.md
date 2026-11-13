@@ -24,6 +24,14 @@ I study across **mathematical modeling, statistical inference, computational val
 - **Mobility & transportation:** public-transport demand, demand-responsive transit (DRT), operational and economic evaluation.
 - **Scientific software:** reproducible computational analysis, cross-checking mathematical models against numerical implementations.
 
+
+## 🏆 Awards & Honors
+
+| Date | Award | Result |
+|:---:|---|---|
+| 2026.11 | 2026 동남권 멀티도메인 모빌리티 비즈니스 해커톤 | **특별상 · 울산광역시장상(최우수상)** |
+
+
 ## Research Papers & Manuscripts
 
 > **Publication status (as provided by the author):** 1 published in the *Journal of the Korean Data Analysis Society* (한국자료분석학회), and 5 under peer review. The forthcoming paper does not yet have confirmed volume, pages, DOI, or publication date. Status is based on the author’s update, not independent journal verification. Individual contribution statements are included only where explicitly reported in the manuscripts.
