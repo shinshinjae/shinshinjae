@@ -23,6 +23,7 @@ I study across **mathematical modeling, statistical inference, computational val
 - **Statistical inference & validation:** parameter estimation, particle filtering/smoothing, uncertainty and sensitivity analysis, out-of-sample evaluation.
 - **Mobility & transportation:** public-transport demand, demand-responsive transit (DRT), operational and economic evaluation.
 - **Scientific software:** reproducible computational analysis, cross-checking mathematical models against numerical implementations.
+- **Nonlinear dynamics & bifurcation analysis**: equilibrium stability, fold and cusp bifurcations, numerical continuation, structural instability, and thermal buckling.
 
 
 ## 🏆 Awards
@@ -34,7 +35,7 @@ I study across **mathematical modeling, statistical inference, computational val
 
 ## Research Papers & Manuscripts
 
-> **Publication status (as provided by the author):** 1 published in the *Journal of the Korean Data Analysis Society* (한국자료분석학회), and 5 under peer review. The forthcoming paper does not yet have confirmed volume, pages, DOI, or publication date. Status is based on the author’s update, not independent journal verification. Individual contribution statements are included only where explicitly reported in the manuscripts.
+> **Publication status (as provided by the author):** 1 published in the *Journal of the Korean Data Analysis Society* (한국자료분석학회), and 6 under peer review. The forthcoming paper does not yet have confirmed volume, pages, DOI, or publication date. Status is based on the author’s update, not independent journal verification. Individual contribution statements are included only where explicitly reported in the manuscripts.
 
 ### 01 · Vacuum–Repressurization Void Removal in Flip-Chip Underfill
 
@@ -118,6 +119,21 @@ I study across **mathematical modeling, statistical inference, computational val
 - Focuses on **bootstrap-calibrated identifiability** and **observation-scale ambiguity**.
 
 `Cell signaling` `Stochastic Boolean models` `Dose–response calibration` `Identifiability`
+
+### 07 · Thermal Buckling of Continuous Welded Rail
+
+**Status:** Under peer review (심사 중)
+
+**Upper and Lower Buckling Temperatures of Continuous Welded Rail as Fold Bifurcations: Continuation, Cusp Map, and a Stochastic Rail-Temperature Fragility**  
+*Jaewan Shin, Minwoo Choi, Seunghoon Cha, Minsoo Kim*
+
+- Developed a **nonlinear continuous welded rail (CWR) buckling model** with longitudinal–lateral coupling, identifying the upper and lower buckling temperatures as **two fold bifurcations of a single equilibrium path**.
+- Applied **energy-consistent discretization**, **pseudo-arclength continuation**, and **Moore–Spence fold continuation** to trace equilibrium branches, evaluate stability, and identify **cusp bifurcations** separating explosive snap-through from progressive buckling.
+- Constructed a **two-parameter cusp map** relating initial track misalignment to residual ballast resistance; for a representative UIC60 track, the critical misalignment was approximately **14 yield displacements (35 mm over a 9.4 m chord)** for residual resistance ratios of 0.6-1.0.
+- Validated the large-amplitude model against **Kerr's published safe buckling temperatures**, obtaining agreement within approximately **2% across four benchmark cases**.
+- Integrated **Ornstein–Uhlenbeck stochastic weather processes** with a **rail heat-balance model** to estimate temperature-dependent fold-exceedance probabilities under simulated summer conditions, distinguishing modeled threshold exceedance from actual derailment risk.
+
+`Rail thermal buckling` `Bifurcation theory` `Numerical continuation` `Cusp bifurcation` `Stochastic modeling` `Structural stability`
 
 ## Conference Presentations
 
