@@ -39,7 +39,7 @@ I study across **mathematical modeling, statistical inference, computational val
 
 ### 01 · Vacuum–Repressurization Void Removal in Flip-Chip Underfill
 
-**Status:** Under peer review (심사 중)
+**Status:** Published (게재 완료)
 
 **Vacuum–repressurization void removal in flip-chip underfill: a hybrid reduced-order process model**  
 *Jaewan Shin, Sanghyun Lee, Minsoo Kim*
